@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.about {
+  margin: 50px auto;
+  width: 550px;
+  min-height: 520px;
+}
+.about h2{
+  text-align: center;
+  color: coral;
+}
+.about p{
+  text-align: justify;
+  margin-top: 30px;
+}
+.footer{
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+  margin: auto;
+}
+.list, .posts {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+.home h1{
+  color: coral;
+  margin: 40px auto;
+}
